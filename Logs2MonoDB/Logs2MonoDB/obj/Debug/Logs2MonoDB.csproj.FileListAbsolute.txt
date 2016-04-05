@@ -1,6 +1,13 @@
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2MonoDB.exe.config
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2MonoDB.exe
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2MonoDB.pdb
-F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.csprojResolveAssemblyReference.cache
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.exe
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.pdb
+F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2MonoDB.exe.config
+F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.exe
+F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.pdb
+F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2MonoDB.exe
+F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2MonoDB.pdb
+F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.csprojResolveAssemblyReference.cache
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\log4net.dll
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\log4net.xml
