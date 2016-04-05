@@ -11,3 +11,10 @@ F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Logs2Mono
 F:\Repository\GitHub\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.csprojResolveAssemblyReference.cache
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\log4net.dll
 F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\log4net.xml
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\Log4Mongo.dll
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\MongoDB.Bson.dll
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\MongoDB.Driver.Core.dll
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\MongoDB.Driver.dll
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\MongoDB.Bson.xml
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\bin\Debug\MongoDB.Driver.xml
+F:\Remote Repositorys\Log4Net2MongoDB\Logs2MonoDB\Logs2MonoDB\obj\Debug\Logs2MonoDB.csprojResolveAssemblyReference.cache
